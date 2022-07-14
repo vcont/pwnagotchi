@@ -27,6 +27,10 @@ Multiple units within close physical proximity can "talk" to each other, adverti
 
 https://www.pwnagotchi.ai
 
+## Fork 
+
+This fork integrate the commit https://github.com/evilsocket/pwnagotchi/pull/1069#issue-1098533555, which supports Waveshare 2.13inch v3 Rev2.1.
+
 ## Links
 
 &nbsp; | Official Links
